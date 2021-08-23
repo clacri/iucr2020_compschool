@@ -1,0 +1,29 @@
+#this file contains 2 separate tasks (which are
+#denoted by the TITLE directive).
+TITLE Monoclinic/Tetragonal twinning
+ALGORITHM A
+SUPERGROUP 4/mmm
+SUBGROUP 2/m 4
+RMAT 1 0 0 0 1 0 0 0 1
+RMAT -1 0 0 0 1 0 0 0 -1
+RMAT -1 0 0 0 -1 0 0 0 -1
+RMAT 1 0 0 0 -1 0 0 0 1
+TRANS -1 0 0 0 0 1 0 1 0
+OUTFILE lapacke_mono-tetragonal.cosets
+#INSFILE anilin.ins
+#NEWINS tetra
+#here is a comment 
+#this is second task.
+TITLE Monoclinic/Hexagonal twinning
+ALGORITHM A
+SUPERGROUP 6/mmm
+SUBGROUP 2/m 4
+RMAT 1 0 0 0 1 0 0 0 1
+RMAT -1 0 0 0 1 0 0 0 -1
+RMAT -1 0 0 0 -1 0 0 0 -1
+RMAT 1 0 0 0 -1 0 0 0 1
+TRANS -1 0 0 0 0 1 0 1 0
+OUTFILE lapacke_mono-hexagonal.cosets
+#INSFILE anilin.ins
+#NEWINS hexa
+END

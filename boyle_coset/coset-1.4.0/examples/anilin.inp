@@ -1,0 +1,14 @@
+TITLE anilin test case
+ALGORITHM A
+SUPERGROUP mmm
+SUBGROUP 2/m  4
+RMAT 1 0 0 0 1 0 0 0 1
+RMAT -1 0 0 0 1 0 0 0 -1
+RMAT -1 0 0 0 -1 0 0 0 -1
+RMAT 1 0 0 0 -1 0 0 0 1
+TRANS 0 0 1 2 0 1 0 1 0
+OUTFILE anilin.cosets
+INSFILE anilin.ins
+NEWINS twin
+EXEC /usr/local/bin/shelxl
+END
