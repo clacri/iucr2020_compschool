@@ -1,2 +1,12 @@
 # iucr2020_compschool
-This will contain materials for the IUCr computing school held in September 2021
+This contains the  materials for the IUCr computing school to be held in September 2021
+
+
+## boyle_coset
+
+Contains all code required for Paul Boyle practical.
+
+## randy_covariance
+
+Contains a colab notebook 
+* Open assess_casp14_MR_paper.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/clacri/iucr2020_compschool/blob/main/randy_covariance/CovarianceMatrices.ipynb)
