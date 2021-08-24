@@ -9,4 +9,4 @@ Contains all code required for Paul Boyle practical.
 ## randy_covariance
 
 Contains a colab notebook 
-* Open CovarianceMatrices.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/clacri/iucr2020_compschool/blob/main/randy_covariance/CovarianceMatrices.ipynb)
+* Open CovarianceMatrices.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/randy_covariance/CovarianceMatrices.ipynb)
