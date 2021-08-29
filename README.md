@@ -1,5 +1,5 @@
 # iucr2020_compschool
-This contains the  materials for the IUCr computing school to be held in September 2021
+This contains the  materials for the IUCr computing school to be held in  September 2021
 
 
 ## boyle_coset
