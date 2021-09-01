@@ -22,3 +22,8 @@ Contains a colab notebook as well as the pdf version of her slides and a csv dat
 Contains a colab notebook for the networkX graph analysis
 
 * Open Networkx.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/massimo_graphs/Networkx.ipynb)
+
+## christopher_cctbx
+A colab notebook to demo high level features of cctbx
+* Open Databases_computing_school.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/christopher_cctbx/CCTBX_Demo.ipynb)
+
