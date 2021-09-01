@@ -7,7 +7,7 @@ The task in this tutorial is to make a PR into this GitHub repository (https://g
 
 ### Python Packaging - Simon
 Contains a colab notebook 
-* Open packaging_tutorial.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/crysthack_day1_python_packaging/packaging_tutorial.ipynb.ipynb)
+* Open packaging_tutorial.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/crysthack_day1_python_packaging/packaging_tutorial.ipynb)
 
 ## boyle_coset
 
