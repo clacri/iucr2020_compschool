@@ -18,6 +18,7 @@ Your goal is to get a "Pull Request" merged into the iucr2020_compschool repo (i
 1. you are done
 
 Extra credit:
+-------------
 1. in the src directory contribute to the code that will make a program that will
    read all the files in the names directory and ranomly pick two names to greet each
    other by printing 
@@ -27,4 +28,10 @@ Extra credit:
 2. one job is to create issues that need to be solved for this program to work, so create them!
 3. if this is done, pick an issue and assign it to yourself by writing a comment on the issue, something like "@mygithubusername will take this"
 4. use the GitHub workflow to make a PR that implements your contribution.  If you  get done then help others to do their contributions so there is work for, and learning by, everyone.
-    
+
+Contributions:
+--------------
+ 1. Thank you for your contribution!
+ 1. All code must conform to PEP8 coding standards.
+ 1. Please behave in an inclusive and respectful way in all your interactions
+
