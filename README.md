@@ -35,6 +35,11 @@ A colab notebook to demo high level features of cctbx
 
 ## Sessions Friday
 
+### crysthack_day3_martin
+
+Contains all code required for Martin Maly practical.
+
+
 ### boyle_coset
 
 Contains all code required for Paul Boyle practical.
