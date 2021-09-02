@@ -17,7 +17,7 @@ def read_names():
 
 
 def greet(names):
-    greeting_list = ["Hello", "Hi", "Howdy"]
+    greeting_list = ["Hello", "Hi", "Howdy","Hola","Ciao"]
     print("%s, %s!" % (random.choice(greeting_list),
                        random.choice(names)))
 
