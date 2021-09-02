@@ -10,18 +10,20 @@ The task in this tutorial is to make a PR into this GitHub repository (https://g
 Contains a colab notebook 
 * Open packaging_tutorial.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/crysthack_day1_python_packaging/packaging_tutorial.ipynb)
 
-## massimo_graphs
+### massimo_graphs
 
 Contains a colab notebook for the networkX graph analysis
 
 * Open Networkx.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/massimo_graphs/Networkx.ipynb)
 
-## christopher_cctbx
+### christopher_cctbx
 A colab notebook to demo high level features of cctbx
 * Open Databases_computing_school.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/christopher_cctbx/CCTBX_Demo.ipynb)
 
 
 ## Sessions Thursday
+
+### arkadiy eigenvalues 101
 
 * Open Tutorial_1_matrices,_vectors,_calcualte_eigenvalue.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/arkadiy_eigenvalues_101/Tutorial_1_matrices,_vectors,_calcualte_eigenvalue.ipynb)
 
@@ -33,16 +35,16 @@ A colab notebook to demo high level features of cctbx
 
 ## Sessions Friday
 
-## boyle_coset
+### boyle_coset
 
 Contains all code required for Paul Boyle practical.
 
-## randy_covariance
+### randy_covariance
 
 Contains a colab notebook 
 * Open CovarianceMatrices.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/randy_covariance/CovarianceMatrices.ipynb)
 
-## iracema_databases
+### iracema_databases
 
 Contains a colab notebook as well as the pdf version of her slides and a csv dataset required for the tutorial
 
