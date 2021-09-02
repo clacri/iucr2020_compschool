@@ -33,14 +33,16 @@ def greet_all(names):
 
 def greet_each_other(names):
     name1, name2 = random.sample(names, 2)
-
     print(f"{random.choice(GREETINGS)}, my name is {name1}, what's your name?")
     print(f"{random.choice(GREETINGS)}, my name is {name2}, How are you enjoying this course?")
     print("I am loving it, but I wish the conference was in-person and we could all be there...")
 
 
 def main():
-    names = read_names(Path("../names/"))
+    # TODO: build a CLI to allow the path to be set when running the program
+    p = Path("../names/")
+
+    names = read_names(p)
     greet_random(names)
     greet_all(names)
     greet_each_other(names)
