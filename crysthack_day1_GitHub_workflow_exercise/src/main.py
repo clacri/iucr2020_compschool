@@ -11,7 +11,7 @@ def read_names(path):
     :param path: path to the directory you want to read the files from
     :return names: a list of the names read from the files
     """
-    names = []
+    first_names = []
     for name_file in path.glob("*.txt"):
         with open(name_file, 'r') as f:
             first_line = f.readline()
