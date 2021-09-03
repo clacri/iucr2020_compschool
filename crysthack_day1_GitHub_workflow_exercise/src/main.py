@@ -1,4 +1,4 @@
-import glob
+from glob import glob
 import random
 from pathlib import Path
 
