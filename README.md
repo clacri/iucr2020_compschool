@@ -39,6 +39,10 @@ A colab notebook to demo high level features of cctbx
 
 Contains all code required for Martin Maly practical.
 
+### crysthack_day3_gemma
+
+Contains the data for the practical exercises from Gemma
+
 ### crysthack_day3_simon
 Contains a colab notebook 
 * Open diffpy-cmi.ipynb in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clacri/iucr2020_compschool/blob/main/crysthack_day3_diffpy-cmi/diffpy-cmi.ipynb)
