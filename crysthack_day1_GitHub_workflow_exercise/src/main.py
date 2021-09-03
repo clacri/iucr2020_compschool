@@ -1,5 +1,6 @@
 from glob import glob
 import random
+from nameparser import HumanName
 from pathlib import Path
 
 
@@ -14,12 +15,12 @@ def read_names(path):
     for name_file in path.glob("*.txt"):
         with open(name_file, 'r') as f:
             first_line = f.readline()
-            first_name = first_line.split()[0]
-            names.append(first_name)
-    return names
+            name = HumanName(first_line)
+            first_names.append(name.first)
+    return first_names
 
 
-GREETINGS = ["Hello", "Hi", "Howdy", "Hola", "Ciao", "G'day", "What's up", "Howzgarn"]
+GREETINGS = ["Hello", "Hi", "Howdy", "Hola", "Ciao", "Ahoj", "Buna", "G'day", "What's up", "Howzgarn"]
 
 
 def greet_random(names):
